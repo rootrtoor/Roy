@@ -1,0 +1,6 @@
+{
+  "name": "Custom Motorized Bicycle Builder",
+  "description": "An interactive web application for designing, customizing, and ordering custom motorized bicycles with real-time preview and cost estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
